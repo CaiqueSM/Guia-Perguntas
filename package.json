@@ -1,0 +1,26 @@
+{
+  "name": "guia-perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaiqueSM/Guia-Perguntas.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Caique SM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaiqueSM/Guia-Perguntas/issues"
+  },
+  "homepage": "https://github.com/CaiqueSM/Guia-Perguntas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
